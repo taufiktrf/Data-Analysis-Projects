@@ -1,1 +1,1 @@
-[link text](https://public.tableau.com/views/AirBnBDashboard_17210730400970/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View The Dashboard on Tableau Public](https://public.tableau.com/views/AirBnBDashboard_17210730400970/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
